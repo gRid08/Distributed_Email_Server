@@ -1,6 +1,0 @@
-com\emailserver\proxy\balancer\LoadBalancer.class
-com\emailserver\proxy\ProxyMain.class
-com\emailserver\proxy\control\ProxyControlServer.class
-com\emailserver\proxy\balancer\LoadBalancer$Strategy.class
-com\emailserver\proxy\health\HealthChecker.class
-com\emailserver\proxy\registry\WorkerRegistry.class

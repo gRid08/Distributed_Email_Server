@@ -1,7 +1,0 @@
-D:\PROJECT_2026\MY_NEW\Distributed_Email_Server\worker\src\main\java\com\emailserver\worker\control\ControlServer.java
-D:\PROJECT_2026\MY_NEW\Distributed_Email_Server\worker\src\main\java\com\emailserver\worker\pop3\Pop3Server.java
-D:\PROJECT_2026\MY_NEW\Distributed_Email_Server\worker\src\main\java\com\emailserver\worker\pop3\Pop3Session.java
-D:\PROJECT_2026\MY_NEW\Distributed_Email_Server\worker\src\main\java\com\emailserver\worker\smtp\SmtpServer.java
-D:\PROJECT_2026\MY_NEW\Distributed_Email_Server\worker\src\main\java\com\emailserver\worker\smtp\SmtpSession.java
-D:\PROJECT_2026\MY_NEW\Distributed_Email_Server\worker\src\main\java\com\emailserver\worker\store\MailboxStore.java
-D:\PROJECT_2026\MY_NEW\Distributed_Email_Server\worker\src\main\java\com\emailserver\worker\WorkerMain.java
