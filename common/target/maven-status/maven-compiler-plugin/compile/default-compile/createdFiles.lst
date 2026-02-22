@@ -1,0 +1,14 @@
+com\emailserver\protocol\InternalMessage$ErrorResponse.class
+com\emailserver\model\Email.class
+com\emailserver\protocol\InternalMessage$SuccessResponse.class
+com\emailserver\protocol\InternalMessage.class
+com\emailserver\protocol\InternalMessage$FetchEmailsRequest.class
+com\emailserver\protocol\InternalMessage$DeleteEmailRequest.class
+com\emailserver\protocol\InternalMessage$StoreEmailRequest.class
+com\emailserver\protocol\InternalMessage$HealthCheckResponse.class
+com\emailserver\protocol\InternalMessage$RegisterRequest.class
+com\emailserver\protocol\InternalMessage$HealthCheckRequest.class
+com\emailserver\protocol\InternalMessage$FetchEmailsResponse.class
+com\emailserver\model\WorkerNode$NodeStatus.class
+com\emailserver\util\MessageCodec.class
+com\emailserver\model\WorkerNode.class

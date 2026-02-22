@@ -1,0 +1,9 @@
+com\emailserver\worker\WorkerMain.class
+com\emailserver\worker\control\ControlServer.class
+com\emailserver\worker\store\MailboxStore.class
+com\emailserver\worker\smtp\SmtpSession$State.class
+com\emailserver\worker\smtp\SmtpSession.class
+com\emailserver\worker\pop3\Pop3Server.class
+com\emailserver\worker\pop3\Pop3Session.class
+com\emailserver\worker\pop3\Pop3Session$State.class
+com\emailserver\worker\smtp\SmtpServer.class
